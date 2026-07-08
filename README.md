@@ -1,4 +1,5 @@
-👋 Hola, soy Christoppher
+# ¡Hola! 👋
 
-Analista Programador en formación. Actualmente desarrollo en Python, HTML, CSS, JS, bases de datos, POO en Python, APIs y modelamiento UML.
-Todo lo que subo aquí son proyectos prácticos que demuestran aprendizaje, resolución de problemas y código organizado.
+Soy estudiante de Analista Programador y me apasiona el desarrollo web y la ciberseguridad. Disfruto crear aplicaciones modernas, seguras y escalables, aplicando buenas prácticas de desarrollo y aprendiendo constantemente nuevas tecnologías.
+
+En este perfil comparto proyectos, experimentos y recursos que reflejan mi crecimiento como desarrollador y mi interés por construir soluciones útiles y de calidad.
