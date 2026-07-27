@@ -1,5 +1,13 @@
 # ¡Hola! 👋
 
-Soy estudiante de Analista Programador y me apasiona el desarrollo web y la ciberseguridad. Disfruto crear aplicaciones modernas, seguras y escalables, aplicando buenas prácticas de desarrollo y aprendiendo constantemente nuevas tecnologías.
+💡 Ayudo a pequeñas empresas a conseguir clientes mediante presencia digital de que generan confianza, aumentan tus oportunidades de venta y hacen que tu negocio destaque desde el primer segundo.
 
-En este perfil comparto proyectos, experimentos y recursos que reflejan mi crecimiento como desarrollador y mi interés por construir soluciones útiles y de calidad.
+✅ Diseño profesional y moderno
+
+📈 Optimizada para convertir más clientes
+
+📱 Adaptación 100% móvil
+
+⚡ Entrega rápida y soporte personalizado
+
+Solicita tu cotización hoy y comienza a vender más.
